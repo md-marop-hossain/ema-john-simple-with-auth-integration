@@ -47,3 +47,5 @@ const useFirebase = () => {
 }
 
 export default useFirebase;
+
+// shift+F12 using useFirebase how many place are used 
